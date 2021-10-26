@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/joaov-rodrigues/poc-npm-registry/issues"
   },
-  "homepage": "https://github.com/joaov-rodrigues/poc-npm-registry#readme"
+  "homepage": "https://github.com/joaov-rodrigues/poc-npm-registry#readme",
+  "publishConfig": {
+    "@joaov-rodrigues:registry": "https://npm.pkg.github.com"
+  }
 }
