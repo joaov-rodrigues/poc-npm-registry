@@ -1,0 +1,22 @@
+{
+  "name": "@joaov-rodrigues/poc-npm-registry",
+  "version": "1.0.0",
+  "description": "Teste de npm registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaov-rodrigues/poc-npm-registry.git"
+  },
+  "keywords": [
+    "[teste]"
+  ],
+  "author": "Joao Victor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaov-rodrigues/poc-npm-registry/issues"
+  },
+  "homepage": "https://github.com/joaov-rodrigues/poc-npm-registry#readme"
+}
