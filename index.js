@@ -1,3 +1,7 @@
-function print(text) {
-  return console.log(text)
+const hello = function (name) {
+  console.log("Hello " + name + "!");
+}
+
+module.exports = {
+  hello
 }
